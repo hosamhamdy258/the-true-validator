@@ -84,15 +84,15 @@ The API extracts and returns the following information from valid IDs:
 
 ## Quick Start
 
-### if you don't want to install the app is live on [Koybe]() 
+### if you don't want to install the app is live on [pythonanywhere](https://genericapp.pythonanywhere.com/) 
 
 ### Installation
 
 1. **Clone the repository**
 
 ```bash
-git clone <repository-url>
-cd tru
+git clone https://github.com/hosamhamdy258/the-true-validator
+cd the-true-validator
 ```
 
 2. **Build and run (Production)**
