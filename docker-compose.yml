@@ -1,0 +1,25 @@
+services:
+  development:
+    build: .
+    command: python manage.py runserver 0.0.0.0:8000
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app
+    image: tru:v1.0
+    environment:
+      - DJANGO_DEVELOPMENT=True
+
+  production:
+    build: .
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - .:/app
+      - ./config/nginx:/etc/nginx/sites-enabled
+      - ./config/supervisor:/etc/supervisor/conf.d
+
+    image: tru:v1.0
+    environment:
+      - DJANGO_DEVELOPMENT=False

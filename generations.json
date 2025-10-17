@@ -1,0 +1,44 @@
+{
+  "generations": [
+    {
+      "name": "Greatest Generation",
+      "start_year": 1900,
+      "end_year": 1927
+    },
+    {
+      "name": "Silent Generation",
+      "start_year": 1928,
+      "end_year": 1945
+    },
+    {
+      "name": "Baby Boomers",
+      "start_year": 1946,
+      "end_year": 1964
+    },
+    {
+      "name": "Generation X",
+      "start_year": 1965,
+      "end_year": 1980
+    },
+    {
+      "name": "Millennials (Gen Y)",
+      "start_year": 1981,
+      "end_year": 1996
+    },
+    {
+      "name": "Generation Z",
+      "start_year": 1997,
+      "end_year": 2012
+    },
+    {
+      "name": "Generation Alpha",
+      "start_year": 2013,
+      "end_year": 2025
+    },
+    {
+      "name": "Generation Beta",
+      "start_year": 2025,
+      "end_year": 2039
+    }
+  ]
+}

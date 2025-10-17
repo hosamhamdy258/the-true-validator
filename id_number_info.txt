@@ -1,0 +1,46 @@
+Understanding the Egyptian National ID Number
+
+The Egyptian National ID number is a 14-digit number that encodes specific personal information about the individual.
+
+Here's how to read it:
+
+1. 1st Digit – Century of Birth
+   - Indicates the century in which the person was born:
+     - "2" = 20th century (1900–1999)
+     - "3" = 21st century (2000 and beyond)
+
+2. 2nd & 3rd Digits – Year of Birth
+   - Represents the last two digits of the birth year.
+     - Example: "99" = 1999, "01" = 2001
+
+3. 4th & 5th Digits – Month of Birth
+   - Indicates the month the person was born.
+     - Example: "01" = January, "12" = December
+
+4. 6th & 7th Digits – Day of Birth
+   - Represents the day of the month the person was born.
+     - Example: "15" = 15th day
+
+5. 8th & 9th Digits – Governorate Code
+   - Refers to the governorate where the birth certificate was issued.
+
+6. 10th to 13th Digits – Serial Number
+   - A unique number to distinguish individuals born on the same day in the same governorate.
+   - The 13th digit (last one in this segment) indicates gender:
+     - Odd number (1, 3, 5, 7, 9) = Male
+     - Even number (2, 4, 6, 8) = Female
+
+7. 14th Digit – Check Digit
+   - A verification number used to confirm the validity of the national ID.
+
+Example: 29801011401891
+- 2 = 20th century
+- 98 = Year 1998
+- 01 = January
+- 01 = 1st day
+- 01 = Cairo Governorate
+- 4018 = Serial number
+- 8 (within the serial) = Female
+- 1 = Check digit
+
+

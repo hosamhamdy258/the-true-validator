@@ -1,0 +1,32 @@
+{
+  "governorates": [
+    {"code": "01", "arabic": "القاهرة", "english": "Cairo"},
+    {"code": "02", "arabic": "الإسكندرية", "english": "Alexandria"},
+    {"code": "03", "arabic": "بورسعيد", "english": "Port Said"},
+    {"code": "04", "arabic": "السويس", "english": "Suez"},
+    {"code": "11", "arabic": "دمياط", "english": "Damietta"},
+    {"code": "12", "arabic": "الدقهلية", "english": "Dakahlia"},
+    {"code": "13", "arabic": "الشرقية", "english": "Sharqia"},
+    {"code": "14", "arabic": "القليوبية", "english": "Qalyubia"},
+    {"code": "15", "arabic": "كفر الشيخ", "english": "Kafr El Sheikh"},
+    {"code": "16", "arabic": "الغربية", "english": "Gharbia"},
+    {"code": "17", "arabic": "المنوفية", "english": "Menoufia"},
+    {"code": "18", "arabic": "البحيرة", "english": "Beheira"},
+    {"code": "19", "arabic": "الإسماعيلية", "english": "Ismailia"},
+    {"code": "21", "arabic": "الجيزة", "english": "Giza"},
+    {"code": "22", "arabic": "بني سويف", "english": "Beni Suef"},
+    {"code": "23", "arabic": "الفيوم", "english": "Fayoum"},
+    {"code": "24", "arabic": "المنيا", "english": "Minya"},
+    {"code": "25", "arabic": "أسيوط", "english": "Assiut"},
+    {"code": "26", "arabic": "سوهاج", "english": "Sohag"},
+    {"code": "27", "arabic": "قنا", "english": "Qena"},
+    {"code": "28", "arabic": "أسوان", "english": "Aswan"},
+    {"code": "29", "arabic": "الأقصر", "english": "Luxor"},
+    {"code": "31", "arabic": "البحر الأحمر", "english": "Red Sea"},
+    {"code": "32", "arabic": "الوادي الجديد", "english": "New Valley"},
+    {"code": "33", "arabic": "مطروح", "english": "Matrouh"},
+    {"code": "34", "arabic": "شمال سيناء", "english": "North Sinai"},
+    {"code": "35", "arabic": "جنوب سيناء", "english": "South Sinai"}
+  ]
+}
+

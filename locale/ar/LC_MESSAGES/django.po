@@ -1,0 +1,216 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Egyptian ID Validator 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-17 08:46+0300\n"
+"PO-Revision-Date: 2025-10-17 08:47+0300\n"
+"Last-Translator: Hossam Hamdy\n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+#: core/settings/base.py:124
+msgid "English"
+msgstr "الإنجليزية"
+
+#: core/settings/base.py:125
+msgid "Arabic"
+msgstr "العربية"
+
+#: templates/home.html:7 templates/home.html:344
+msgid "Egyptian National ID Validator"
+msgstr "التحقق من الرقم القومي المصري"
+
+#: templates/home.html:345
+msgid "Test the validator instantly - No authentication required!"
+msgstr "اختبر المدقق فوراً - لا يتطلب مصادقة!"
+
+#: templates/home.html:351
+msgid "Test Validator"
+msgstr "اختبار المدقق"
+
+#: templates/home.html:355
+msgid "Egyptian National ID (14 digits)"
+msgstr "الرقم القومي المصري (14 رقم)"
+
+#: templates/home.html:367
+msgid "Validate ID"
+msgstr "التحقق من الرقم"
+
+#: templates/home.html:374
+msgid "Valid National ID"
+msgstr "رقم قومي صحيح"
+
+#: templates/home.html:378
+msgid "National ID"
+msgstr "الرقم القومي"
+
+#: templates/home.html:382 templates/home.html:534
+msgid "Birth Date"
+msgstr "تاريخ الميلاد"
+
+#: templates/home.html:386
+msgid "Age"
+msgstr "العمر"
+
+#: templates/home.html:387
+msgid "years"
+msgstr "سنة"
+
+#: templates/home.html:390
+msgid "Gender"
+msgstr "النوع"
+
+#: templates/home.html:394 templates/home.html:530
+msgid "Century"
+msgstr "القرن"
+
+#: templates/home.html:398
+msgid "Generation"
+msgstr "الجيل"
+
+#: templates/home.html:405 templates/home.html:538
+msgid "Governorate"
+msgstr "المحافظة"
+
+#: templates/home.html:416
+msgid "Invalid National ID"
+msgstr "رقم قومي غير صحيح"
+
+#: templates/home.html:428
+msgid "Example IDs"
+msgstr "أمثلة للأرقام"
+
+#: templates/home.html:446
+msgid "API Documentation"
+msgstr "توثيق الواجهة البرمجية"
+
+#: templates/home.html:449
+msgid "Authentication"
+msgstr "المصادقة"
+
+#: templates/home.html:450
+msgid "Get JWT tokens first:"
+msgstr "احصل على رموز JWT أولاً:"
+
+#: templates/home.html:454
+msgid "Test Credentials:"
+msgstr "بيانات الاختبار:"
+
+#: templates/home.html:455
+msgid "Username:"
+msgstr "اسم المستخدم:"
+
+#: templates/home.html:456
+msgid "Password:"
+msgstr "كلمة المرور:"
+
+#: templates/home.html:459
+msgid "Validate National ID"
+msgstr "التحقق من الرقم القومي"
+
+#: templates/home.html:462
+msgid "Requires:"
+msgstr "يتطلب:"
+
+#: templates/home.html:465
+msgid "Interactive Docs"
+msgstr "التوثيق التفاعلي"
+
+#: templates/home.html:474
+msgid "Quick API Example"
+msgstr "مثال سريع للواجهة البرمجية"
+
+#: templates/home.html:505
+msgid "Token Management"
+msgstr "إدارة الرموز"
+
+#: templates/home.html:507
+msgid "Refresh your access token"
+msgstr "تحديث رمز الوصول"
+
+#: templates/home.html:510
+msgid "Logout / blacklist token"
+msgstr "تسجيل الخروج / إلغاء الرمز"
+
+#: templates/home.html:514
+msgid "Note:"
+msgstr "ملاحظة:"
+
+#: templates/home.html:516
+msgid ""
+"This testing page bypasses authentication for convenience. The real API "
+"requires JWT tokens for all requests."
+msgstr "صفحة الاختبار هذه تتجاوز المصادقة للراحة. الواجهة البرمجية الحقيقية تتطلب رموز JWT لجميع الطلبات."
+
+#: templates/home.html:523
+msgid "Egyptian National ID Format"
+msgstr "تنسيق الرقم القومي المصري"
+
+#: templates/home.html:530
+msgid "Digit 1:"
+msgstr "الرقم 1:"
+
+#: templates/home.html:531
+msgid "2 = 1900s, 3 = 2000s"
+msgstr "2 = القرن العشرين، 3 = القرن الحادي والعشرين"
+
+#: templates/home.html:534
+msgid "Digits 2-7:"
+msgstr "الأرقام 2-7:"
+
+#: templates/home.html:535
+msgid "YYMMDD format"
+msgstr "تنسيق سنة-شهر-يوم"
+
+#: templates/home.html:538
+msgid "Digits 8-9:"
+msgstr "الأرقام 8-9:"
+
+#: templates/home.html:539
+msgid "01-35 (27 codes)"
+msgstr "01-35 (27 كود)"
+
+#: templates/home.html:542
+msgid "Digits 10-13:"
+msgstr "الأرقام 10-13:"
+
+#: templates/home.html:542
+msgid "Serial"
+msgstr "الرقم التسلسلي"
+
+#: templates/home.html:543
+msgid "13th: odd=male, even=female"
+msgstr "الرقم 13: فردي=ذكر، زوجي=أنثى"
+
+#: validatorApi/id_validator.py:37 validatorApi/serializers.py:17
+msgid "National ID must contain only digits"
+msgstr "يجب أن يحتوي الرقم القومي على أرقام فقط"
+
+#: validatorApi/id_validator.py:54
+msgid "20th century (1900-1999)"
+msgstr "القرن العشرين (1900-1999)"
+
+#: validatorApi/id_validator.py:54
+msgid "21st century (2000+)"
+msgstr "القرن الحادي والعشرين (2000+)"
+
+#: validatorApi/id_validator.py:96
+msgid "Male"
+msgstr "ذكر"
+
+#: validatorApi/id_validator.py:96
+msgid "Female"
+msgstr "أنثى"
+
+#: validatorApi/serializers.py:11
+msgid "14-digit Egyptian National ID number"
+msgstr "الرقم القومي المصري المكون من 14 رقم"
